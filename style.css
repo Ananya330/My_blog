@@ -1,0 +1,72 @@
+.details_info{
+max-width:80%;
+font-family: "Bodoni Moda SC", serif;
+font-size:20px;
+
+
+}
+
+.visited{
+
+font-size:25px;
+font-family: "Bodoni Moda SC", serif;
+
+}
+
+#travel{
+background:linear-gradient(rgb(238, 148, 121) 0%, rgb(222, 192, 115) 50%, rgb(156, 253, 200) 100%);
+
+padding:20px;
+border-style:double;
+border-color:steel-gray ;
+border-width:20px;
+
+
+}
+
+.page-header{
+
+font-size:35px;
+font-variant:small-caps;
+font-family: "Dancing Script",cursive;
+text-shadow:2px 2px grey;
+
+
+}
+
+.movie_head{
+font-size:25px;
+padding:10px;
+border-radius:15px;
+border-style:dotted;
+border-width:5px;
+width:80%;
+}
+
+.movie_head i{
+float:right;
+
+
+}
+
+.book_images{
+width:300px;
+height:350px;
+border-style:double;
+border-width:15px;
+border-color: palevioletred;
+
+
+
+}
+
+.myphoto{
+width:250px;
+height:0px;
+border-radius:100px;
+
+
+
+
+}
+
